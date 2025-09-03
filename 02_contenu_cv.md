@@ -1,7 +1,7 @@
 # Identification
-Ton nom:     
-Ta ville:     
-Ton courriel:     
+Ton nom: Amira Tounekti    
+Ta ville: Saint-Eustache    
+Ton courriel: amiratounekti05@gmail.com    
 Lien vers ton portfolio:     
 
 # Objectif de carrière
@@ -9,11 +9,12 @@ Copier-coller depuis ton journal de bord.
 
 
 # Formation
-Il n'est pas nécessaire d'inscrire votre secondaire à moins d'avoir suivi un programme spécialisé. Copier-coller les éléments suivants au besoin. Vous avez une formation de sauveteur? Un cours de premier soin? On l'inscrit ici. 
+Formation d'animatrice en camp de vacance.
 
-Établissement fréquenté:      
-Nom de votre programme:    
-Date de début et de fin:     
+
+Établissement fréquenté: Cégep Montmorency, Laval, Qc     
+Nom de votre programme: Technique d'integration multimédia   
+Date de début et de fin: cession d'automne 2023     
 Ville:     
 
 # Emploi
